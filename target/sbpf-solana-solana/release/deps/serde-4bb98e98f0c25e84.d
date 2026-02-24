@@ -1,0 +1,14 @@
+/home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/deps/libserde-4bb98e98f0c25e84.rmeta: /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/build/serde-04594d742be3f73e/out/private.rs
+
+/home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/deps/libserde-4bb98e98f0c25e84.rlib: /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/build/serde-04594d742be3f73e/out/private.rs
+
+/home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/deps/serde-4bb98e98f0c25e84.d: /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs /home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs /home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/build/serde-04594d742be3f73e/out/private.rs
+
+/home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/lib.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/integer128.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/mod.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/de.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde-1.0.228/src/private/ser.rs:
+/home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/build/serde-04594d742be3f73e/out/private.rs:
+
+# env-dep:OUT_DIR=/home/brakoose/Desktop/moneyA/target/sbpf-solana-solana/release/build/serde-04594d742be3f73e/out

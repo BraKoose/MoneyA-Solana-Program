@@ -1,0 +1,5 @@
+/home/brakoose/Desktop/moneyA/target/debug/build/serde-e96e66c2181752b8/build_script_build-e96e66c2181752b8.d: /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/build.rs
+
+/home/brakoose/Desktop/moneyA/target/debug/build/serde-e96e66c2181752b8/build_script_build-e96e66c2181752b8: /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/build.rs
+
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/build.rs:

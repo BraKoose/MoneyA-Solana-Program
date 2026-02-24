@@ -1,0 +1,14 @@
+[package]
+name = "constant_time_eq"
+version = "0.4.2"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Constant time equality for byte slices (vendored for MoneyA devnet MVP build stability)"
+
+[lib]
+name = "constant_time_eq"
+path = "src/lib.rs"
+
+[features]
+default = ["std"]
+std = []

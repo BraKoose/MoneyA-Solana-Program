@@ -1,0 +1,12 @@
+/home/brakoose/Desktop/moneyA/target/debug/deps/rand_core-859205be0492f1e7.d: /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/lib.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/error.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/block.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/impls.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/le.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/os.rs
+
+/home/brakoose/Desktop/moneyA/target/debug/deps/librand_core-859205be0492f1e7.rlib: /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/lib.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/error.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/block.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/impls.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/le.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/os.rs
+
+/home/brakoose/Desktop/moneyA/target/debug/deps/librand_core-859205be0492f1e7.rmeta: /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/lib.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/error.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/block.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/impls.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/le.rs /home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/os.rs
+
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/lib.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/error.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/block.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/impls.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/le.rs:
+/home/brakoose/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.5.1/src/os.rs:

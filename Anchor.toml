@@ -1,0 +1,16 @@
+[features]
+seeds = true
+skip-lint = false
+
+[programs.devnet]
+franco_student_pay = "BBZjnEN1JFj7caLdBMeXCvBAbntAi3Hd2Z9pxQ78zMJV"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn mocha -t 1000000 tests/**/*.ts"
