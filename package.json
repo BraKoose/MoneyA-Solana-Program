@@ -7,7 +7,8 @@
     "backend:dev": "npm --prefix backend run dev",
     "backend:observe": "npm --prefix backend run observe",
     "scripts:mint": "tsx scripts/devnet_usdc_mint.ts",
-    "scripts:treasury": "tsx scripts/treasury_setup.ts"
+    "scripts:treasury": "tsx scripts/treasury_setup.ts",
+    "simulate": "tsx scripts/simulate_txs.ts"
   },
   "devDependencies": {
     "tsx": "^4.19.2",
